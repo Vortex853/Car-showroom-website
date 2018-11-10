@@ -1,0 +1,41 @@
+body {
+	background-color: #e0e0e0;
+  padding-top: 50px;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+.product_div{
+
+width: 100%;
+}
+
+.image_size{
+	width: 100%;
+	height: 285px;
+}
+.m-t-50{
+	margin-top: 50px;
+}
+.text_center{
+	text-align: center;
+	color: black;
+}
+
+.p-5{
+	padding: 5px;
+}
+
+.bg-white{
+	background-color: #e0e0e0;
+
+}
+
+.m-b-20{
+	margin-bottom: 20px;
+}
+.bg-blue{
+	background-color: #9c4253
+}
